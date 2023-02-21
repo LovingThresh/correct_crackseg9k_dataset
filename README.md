@@ -2,9 +2,9 @@
 
 ## [download link](https://drive.google.com/file/d/1gRJD-RQluCh3YDLxwSN1tdG1U3Z2hqq7/view?usp=sharing)
 
-First of all, We would like to thank the original authors for their [work](https://arxiv.org/abs/2208.13054), But there are certain problems in the released datasets. This work corrects their datasets
+First of all, we would like to thank the original authors for their [work](https://arxiv.org/abs/2208.13054), but there are certain problems in the released datasets. So, this work corrects their datasets.
 
-Based on the provided mask data, we found the corresponding image data from the original combined dataset. All images and masks can be matched in the new dataset.
+Based on the provided mask data, we found the corresponding image data from [the original combined dataset](https://github.com/khanhha/crack_segmentation). All images and masks can be matched in the new dataset.
 
 ## Document Description
 
