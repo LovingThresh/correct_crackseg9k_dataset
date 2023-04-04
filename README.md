@@ -10,7 +10,7 @@ The plan
 
 - [ ] ResNet (18, 50, 101, 152) with (UNet, DeepLabv3+, SegNet, UperNet)
 - [ ] EfficientNet family  with (UNet, DeepLabv3+, SegNet, UperNet)
-- [x] ConvNext family  with (UNet, DeepLabv3+, SegNet, UperNet)
+- [ ] ConvNext family  with (UNet, DeepLabv3+, SegNet, UperNet)
 - [ ] MobileNet family with (UNet, DeepLabv3+, SegNet, UperNet)
 - [ ] VGG family with (UNet, DeepLabv3+, SegNet, UperNet)
 - [ ] RepVGG family with (UNet, DeepLabv3+, SegNet, UperNet)
@@ -18,10 +18,18 @@ The plan
 - [ ] MixVit family
 - [ ] MobileViT family
 
+## Release Notes
 
-# Release Notes
+Update 2023/4/4
 
-## [download link](https://drive.google.com/file/d/1gRJD-RQluCh3YDLxwSN1tdG1U3Z2hqq7/view?usp=sharing)
+In the new dataset, We increased the 400×400 image to fit the original paper.
+We zeroed out masks with less than 0.05% cracks, as we believe such small cracks are meaningless.
+
+### [new download link OneDrive](https://1drv.ms/u/s!AhNJoF845JCej39PuDjxbo7xm86y)
+
+----
+
+### [download link](https://drive.google.com/file/d/1gRJD-RQluCh3YDLxwSN1tdG1U3Z2hqq7/view?usp=sharing)
 
 First of all, we would like to thank the original authors for their [work](https://arxiv.org/abs/2208.13054), but there are certain problems in the released datasets. So, this work corrects their datasets.
 
